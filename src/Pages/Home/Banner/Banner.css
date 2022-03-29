@@ -1,0 +1,7 @@
+.banner-img{
+    background-image: url(../../../images/banner/banner-girl.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+}
