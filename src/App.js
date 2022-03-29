@@ -21,7 +21,7 @@ import { useState } from 'react';
 
 
 function App() {
-  const [toggle, setToggle] = useState(false); 
+  const [toggle, setToggle] = useState(false);
   return (
     <div className="App">
       <AuthProvider>
@@ -35,8 +35,10 @@ function App() {
               <Home></Home>
             </Route>
             <Route path="/login">
-             {toggle ? <Login></Login>
-              : <Register></Register>}
+              <Login></Login>
+            </Route>
+            <Route path="/register">
+              <Register></Register>
             </Route>
             <PrivateRoute path="/detail/:serviceId">
               <ServiceDetails></ServiceDetails>
@@ -53,8 +55,8 @@ function App() {
           </Switch>
           <Footer></Footer>
         </Router>
-      </AuthProvider>
-    </div>
+      </AuthProvider >
+    </div >
   );
 }
 

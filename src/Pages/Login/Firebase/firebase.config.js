@@ -1,10 +1,10 @@
 const firebaseConfig = {
-    apiKey: "AIzaSyAe7BnIWSfZxybdLwV1VqIbzV8086gpMBg",
-    authDomain: "mcfit-gyms.firebaseapp.com",
-    projectId: "mcfit-gyms",
-    storageBucket: "mcfit-gyms.appspot.com",
-    messagingSenderId: "245383494920",
-    appId: "1:245383494920:web:7852174a72a82974f840bd"
-  };
+  apiKey: "AIzaSyBmzApwFOQlgUNIiGJvzt0-ObjLkcf0ctU",
+  authDomain: "selling-courses.firebaseapp.com",
+  projectId: "selling-courses",
+  storageBucket: "selling-courses.appspot.com",
+  messagingSenderId: "610850069317",
+  appId: "1:610850069317:web:cab660053d9df40102fc2c"
+};
 
 export default firebaseConfig;
