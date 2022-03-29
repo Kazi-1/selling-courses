@@ -44,7 +44,7 @@ const Footer = () => {
         </div>
         <hr />
         <div className="text-center">
-          <small>© 2021 McFIT Fitness Studio. All Rights Reserved.</small>
+          <small>© 2022 Future Learning. All Rights Reserved.</small>
         </div>
       </div>
     </div>

@@ -1,44 +1,30 @@
 [
     {
         "id": 1,
-        "name": "MCFIT IS BACK FOR YOU",
+        "name": "University of Leicester",
         "price": "300",
-        "description": "What did we miss you! High time to say THANK YOU. Thank you for your loyalty, your support and your patience.",
-        "img": "https://content.rsggroup.com/image/upload/q_auto:best,f_auto,dpr_2/v1616419639/McFIT%20Website/Dont%20forget%20Fitness/McFIT_DE_Hessen_Reopening_Header_Website_1920x1080_v2__"
+        "description": "Introduction to Applied Linguistics and TESOL",
+        "img": "https://ugc.futurelearn.com/uploads/images/00/46/thumbnail_0046451d-81ab-4948-a780-aeecb69bc396.jpg"
     },
     {
         "id": 2,
-        "name": "MCFIT PROUD CLUB",
+        "name": "Monash University",
         "price": "100",
-        "description": "With the PROUD CLUB, your loyalty will finally be rewarded. The longer you have been training with us, the more benefits you will get..",
-        "img": "https://content.rsggroup.com/image/upload/q_auto:best,f_auto,dpr_2/v1634639979/McFIT%20Website/App_Image_Text_Teaser"
+        "description": "Mindfulness for Wellbeing and Peak Performance",
+        "img": "https://ugc.futurelearn.com/uploads/images/10/be/thumbnail_10beaae8-de3e-4448-a9d5-0ca41997904d.jpg"
     },
     {
         "id": 3,
-        "name": "FOR MORE BUDDY BUILDING",
+        "name": "AccentureAccenture",
         "price": "150",
-        "description": "Grab your buddy, come to the studio and experience the endless training possibilities at McFIT together: live courses.",
-        "img": "https://content.rsggroup.com/image/upload/q_auto:best,f_auto,dpr_2/v1612288449/McFIT%20Website/20200202_DE_McFIT_ByF_Text-Bild-Teaser_1920x1080"
+        "description": "Digital Skills: Digital Marketing & online shop setup",
+        "img": "https://ugc.futurelearn.com/uploads/images/61/c8/thumbnail_61c8c125-92d1-4d9f-afc3-e6735db09edc.jpg"
     },
     {
         "id": 4,
-        "name": "YOUR BODY BUILDER",
+        "name": "University of Groningen",
         "price": "180",
-        "description": "Now you can experience something - with the new live course training in your McFIT studio, powered by CYBEROBICS! ",
-        "img": "https://www.fitnessfirst.de/sites/g/files/tbchtk201/files/styles/single_image_/public/2021-06/FF_Hell_Betreuung_1000x800px.jpg?itok=4oSLJeev"
-    },
-    {
-        "id": 5,
-        "name": "YOUR CYBEROBICS LIVE CLASSES",
-        "price": "100",
-        "description": "The willingness to help one another has become extremely important in these times.",
-        "img": "https://content.rsggroup.com/image/upload/q_auto:best,f_auto,dpr_2/v1607348331/CYBEROBICS%20Live/McFIT_Startseite_Grafik_1559x839"
-    },
-    {
-        "id": 6,
-        "name": "START YOUR TRAINING",
-        "price": "300",
-        "description": "With an emergency aid program, we were able to give financial assistance to employees whose situation had been made considerably more difficult by the current situation.",
-        "img": "https://content.rsggroup.com/image/upload/q_auto:best,f_auto,dpr_2/v1615895755/McFIT%20Website/Text-Bild-Modul/McFIT_website_1559x839_Trainer"
+        "description": "How Artificial Intelligence Can Support Healthcare",
+        "img": "https://ugc.futurelearn.com/uploads/images/c5/70/thumbnail_c5706a0d-ff35-4531-9f0d-ec2b537ef155.jpg"
     }
 ]

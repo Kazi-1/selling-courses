@@ -13,8 +13,7 @@ const Header = () => {
             <Navbar variant="dark" sticky="top" collapseOnSelect expand="lg">
                 <Container>
                     <Navbar.Brand href="#home" className="text-light fs-5 fw-bold">
-                            <img width="15%" src={icon} alt="" />
-                           <p className="d-inline ms-4">McFIT Fitness Studio</p>  
+                           <h1 className="d-inline ms-4">Future Learning</h1>  
                         </Navbar.Brand>
                     <Navbar.Toggle />
                     <Navbar.Collapse className="justify-content-center">
